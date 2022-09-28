@@ -1,0 +1,38 @@
+.meal{
+    width: 400px;
+    height: 650px;
+    border: 1px solid #00000012;
+    border-radius: 5px;
+    position: relative;
+}
+
+.meal img{
+    width: 400px;
+}
+
+.meal-info{
+    margin: 0 10px;
+}
+
+.meal-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.btn-details{
+    width: 100%;
+    font-size: 20px;
+    position: absolute;
+    bottom: 0;
+    border: 0;
+    color: black;
+    font-weight: 530;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-details p{
+    margin-right: 8px;
+}
