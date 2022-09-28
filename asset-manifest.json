@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-meal-db/static/css/main.849dabb9.css",
+    "main.js": "/react-meal-db/static/js/main.068c3f9a.js",
+    "static/js/787.102ec586.chunk.js": "/react-meal-db/static/js/787.102ec586.chunk.js",
+    "index.html": "/react-meal-db/index.html",
+    "main.849dabb9.css.map": "/react-meal-db/static/css/main.849dabb9.css.map",
+    "main.068c3f9a.js.map": "/react-meal-db/static/js/main.068c3f9a.js.map",
+    "787.102ec586.chunk.js.map": "/react-meal-db/static/js/787.102ec586.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849dabb9.css",
+    "static/js/main.068c3f9a.js"
+  ]
+}
